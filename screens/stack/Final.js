@@ -7,7 +7,7 @@ const Final = () => {
   const [indeterminate, setIndeterminate] = useState(true);
 
   const animate = () => {
-    // console.log('krupal');
+    console.log('krupal');
     let progress = 0;
     setProgress(progress);
     setTimeout(() => {
